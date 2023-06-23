@@ -28,12 +28,6 @@ We need to move the folder into the PF-PASCAL dataset directory. Note that we ca
 to the other two datasets by replacing the `--dataset pfpascal` to `--dataset pfwillow` or
 `--dataset spair`.
 
-Alternatively, you may download the augmented images processed by us using the following links.
-
-- [PF-PASCAL](http://vllab1.ucmerced.edu/~taihong/ContrastiveCorrespondence/datasets_crop/PF-PASCAL-crop.tar)
-- [PF-WILLOW](http://vllab1.ucmerced.edu/~taihong/ContrastiveCorrespondence/datasets_crop/PF-WILLOW-crop.tar)
-- [SPair-71k](http://vllab1.ucmerced.edu/~taihong/ContrastiveCorrespondence/datasets_crop/SPair-71k-crop.tar)
-
 Then, untar each file separately into the directory of each dataset. The resulting directory looks like the
 following, where the `crop` folders contain processed images.
 ```
