@@ -61,8 +61,8 @@ Please refer the `training` and `validation_and_test` directory for detailed ins
 
 Baseline    |  Ours
 -------------------------|-------------------------
-![](figs/vis-SCOT-OT-RHM-022.png)  |  ![](figs/vis-ours-GT-022.png)
-![](figs/vis-SCOT-OT-RHM-012.png)  |  ![](figs/vis-ours-GT-012.png)
+![](figs/vis-SCOT-OT-RHM-022.png)  |  ![](figs/vis-ours-OT-RHM-022.png)
+![](figs/vis-SCOT-OT-RHM-012.png)  |  ![](figs/vis-ours-OT-RHM-012.png)
 
 
 **Visualization of pixel-level contrastive learning.**
