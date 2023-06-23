@@ -21,6 +21,8 @@ You can download the required datasets using the following links and put them in
 - [PF-WILLOW](https://www.di.ens.fr/willow/research/proposalflow/)
 - [SPair-71k](https://cvlab.postech.ac.kr/research/SPair-71k/)
 
+You may also refer to this [script](https://github.com/juhongm999/hpf/blob/master/data/download.py) for downloading those datasets.
+
 Also, we need to prepare the ImageNet dataset.
 
 
